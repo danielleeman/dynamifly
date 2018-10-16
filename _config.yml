@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Base
-url: "https://orange-ape.cloudvent.net/"
+title: Dynamifly
+url: "https://dynamifly.com/"
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -11,9 +11,9 @@ newsletter_action:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Knowledge base template for Jekyll.
-author:
-  name:
-  email:
+author: Dan Leeman
+  name: Dan Leeman
+  email: daniel.leeman@gmail.com
   twitter: # twitter username without the @ symbol
 social:
   name: Base Template
