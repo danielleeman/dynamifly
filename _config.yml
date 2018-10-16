@@ -12,7 +12,7 @@ newsletter_action:
 logo: /siteicon.png
 description: Knowledge base template for Jekyll.
 author: Dan Leeman
-  name: Dan Leeman
+  name:
   email: daniel.leeman@gmail.com
   twitter: # twitter username without the @ symbol
 social:
